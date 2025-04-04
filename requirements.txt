@@ -1,0 +1,8 @@
+dash
+requests
+dash-bootstrap-components
+dash-table
+plotly
+pandas
+beautifulsoup4
+gunicorn
