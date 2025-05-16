@@ -1,0 +1,16 @@
+Libraries
+
+numpy
+pandas
+scikit-learn
+streamlit
+seaborn
+matplotlib
+pickle
+joblib
+os
+reportlab
+
+External Links
+Heart Dataset: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease?select=2022
+Heart Disease Prediction Model: https://drive.google.com/file/d/1aG9Namm-n2_KBrfAmg0ucIkm8CYUPeF6/view?usp=sharing
